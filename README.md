@@ -1,1 +1,1 @@
-teste
+o objetivo aqui é fazer um aplicativo para anotar treinos e dieta.
